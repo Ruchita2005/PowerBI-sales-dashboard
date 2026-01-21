@@ -35,7 +35,7 @@ It helps analyze sales performance across regions, categories, and customer segm
 - Dashboard Design
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/Sales_Analysis_dashboard_Power_BI.png)
 
 ## 🎯 Learning Outcome
 - Built professional Power BI dashboards
